@@ -1,1 +1,1 @@
-# clinic-management
+# ClinicManagement
